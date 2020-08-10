@@ -6,6 +6,9 @@ Ball Sllipery é um game para PC, desenvolvido na Unity 3D. No game você é uma
 ### Video demonstrativo
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/zqHKbjG-fe8)
 
+### Download do Game
+![](https://drive.google.com/file/d/1jQ_YPUavXxWwZt7h6ZASy_9VH9_5Vb5P/view?usp=sharing)
+
 ## Plataforma Adotada: 
   - PC
 
