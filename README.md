@@ -1,32 +1,48 @@
-# Ball Sllipery
+<h1 align="center">
+   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/godot%2Fbunny.png?alt=media&token=de21d5f0-7d86-4f3e-9870-c4ee87d9c6fe" width="400">
+</h1>
 
-### Descrição 
+<h4 align="center"> 
+	🚧 Ball Sllipery 🚀 Concluido...  🚧
+</h4>
+
+## 📚 Descrição
 Ball Sllipery é um game para PC, desenvolvido na Unity 3D. No game você é uma bola e tem o objetivo de coletar todas as moedas do labirinto para passar as fases. O game tem um total de 4 fases.
 
-### Video demonstrativo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/zqHKbjG-fe8)
+## 🛠 Tecnologias
 
-### Download do Game
-[Game](https://drive.google.com/file/d/1jQ_YPUavXxWwZt7h6ZASy_9VH9_5Vb5P/view?usp=sharing)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Plataforma Adotada: 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" heigth="20" width="20"/> [Unity](https://unity.com/pt)
+
+
+## 📷 Video Demonstrativo
+
+<div>
+<a href="https://youtu.be/zqHKbjG-fe8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+## 🖥️ Plataforma adotada
   - PC
 
-## Ambientação: 
+## 🎮 Ambientação: 
   - 3D
 
-## Gênero:
+## 🎲 Gênero:
   1. Aventura
   2. Quebra-Cabeça
   
-## Sensação:
+## 🚸 Sensação:
   - 3° Pessoa
   
-## Público Alvo:
+## 😛 Público Alvo:
   - 14 a 16 anos
   
-## Número de Níveis:
+## 🔢 Número de Níveis:
   1. Tutorial
   2. Fase 1
   3. Fase 2
   4. Fase 3
+
+## 📥 Download
+[Game](https://drive.google.com/file/d/1jQ_YPUavXxWwZt7h6ZASy_9VH9_5Vb5P/view?usp=sharing)
